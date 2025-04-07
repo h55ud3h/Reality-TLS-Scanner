@@ -5,4 +5,3 @@ This script scans the IP range of your server to find the domains that are in th
 
 ![](https://github.com/B3H1Z/Reality-Friendly-Scanner/blob/main/example.gif)
 
-For GUI Version Visit Here: [Reality Friendly Scanner](https://github.com/B3H1Z/Reality-TLS-Scanner-GUI)
